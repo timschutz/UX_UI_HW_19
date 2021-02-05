@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390.123" height="433.395" viewBox="0 0 390.123 433.395">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.772" y1="1.175" x2="-0.953" y2="-0.271" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4e3ad7"/>
+      <stop offset="0.217" stop-color="#6f30c2"/>
+      <stop offset="0.694" stop-color="#c5188d"/>
+      <stop offset="0.967" stop-color="#f90a6d"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_148" data-name="Group 148" transform="translate(-934.877 -868.605)">
+    <ellipse id="Ellipse_34" data-name="Ellipse 34" cx="24.798" cy="24.798" rx="24.798" ry="24.798" transform="translate(934.877 950)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_37" data-name="Ellipse 37" cx="24.798" cy="24.798" rx="24.798" ry="24.798" transform="translate(1221.877 1182.403)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_36" data-name="Ellipse 36" cx="10.798" cy="10.798" rx="10.798" ry="10.798" transform="translate(990.403 1095.403)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_42" data-name="Ellipse 42" cx="13.763" cy="13.763" rx="13.763" ry="13.763" transform="translate(973.676 1232)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_38" data-name="Ellipse 38" cx="10.798" cy="10.798" rx="10.798" ry="10.798" transform="translate(1303.403 959.597)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_41" data-name="Ellipse 41" cx="10.798" cy="10.798" rx="10.798" ry="10.798" transform="translate(1001.201 868.605)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_39" data-name="Ellipse 39" cx="10.798" cy="10.798" rx="10.798" ry="10.798" transform="translate(1287.807 1171.605)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="31.298" cy="31.298" rx="31.298" ry="31.298" transform="translate(1022.799 879.403)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_40" data-name="Ellipse 40" cx="31.298" cy="31.298" rx="31.298" ry="31.298" transform="translate(1257.605 1239.403)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
