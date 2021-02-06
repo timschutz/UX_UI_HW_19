@@ -104,7 +104,7 @@ h6{
 /* ***HEADER*** */
 
 .header_cont{
-    position: fixed;
+    /* position: fixed; */
     z-index: 10;
     height: 90px;
     background-color:#fd4500;
