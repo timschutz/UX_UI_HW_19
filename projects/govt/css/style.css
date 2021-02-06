@@ -97,7 +97,7 @@ h6{
 /* ***HEADER*** */
 
 .header_cont{
-    /* position: fixed; */
+    position: fixed;
     z-index: 10;
     height: 90px;
     background-color:#283044;
@@ -105,16 +105,16 @@ h6{
     position: sticky;
     top: 0;
 }
-.header_h4{
+.my_name{
     font-family: 'Patua One', cursive;
     font-weight: 300;
     font-size: 22px;
     color:#ffffff;
     padding-top: 5px;
-    padding-left: 50px;
+    padding-left: 40px;
     float: left;
 }
-.header_h4 a{
+.my_name a{
     text-decoration: none;
     color:#ffffff;
 }
