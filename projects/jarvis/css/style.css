@@ -69,16 +69,6 @@ h6{
     margin-right: auto;
     width: 30%;
 }
-.header_h4{
-    font-family: 'Patua One', cursive;
-    font-weight: 300;
-    font-size: 22px;
-    color:#ffffff;
-}
-.header_h4 a{
-    text-decoration: none;
-    color:#ffffff;
-}
 .header_h5 a:link,
 .header_h5 a:visited,
 .header_h5 a:active {
@@ -112,10 +102,18 @@ h6{
     position: sticky;
     top: 0;
 }
-.header_cont h4{
+.header_h4{
+    font-family: 'Patua One', cursive;
+    font-weight: 300;
+    font-size: 22px;
+    color:#ffffff;
     padding-top: 5px;
     padding-left: 50px;
     float: left;
+}
+.header_h4 a{
+    text-decoration: none;
+    color:#ffffff;
 }
 .header_links{
     padding-top: 26px;
@@ -322,16 +320,6 @@ h6{
     .menu_icon{
         margin-top: 14px;
         display: block;
-    }
-    .header_cont h4{
-        padding-top: 5px;
-        padding-left: 20px;
-        float: left;
-    }
-    .header_links{
-        padding-top: 26px;
-        padding-right: 20px;
-        float: right;
     }
 }
 
