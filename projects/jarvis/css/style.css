@@ -313,6 +313,9 @@ h6{
     .header_cont{
         background-size: 100%;
     }
+}
+
+@media only screen and (max-width: 520px) {
     .header_links h5{
         display: none;
     }
@@ -329,6 +332,11 @@ h6{
     h5{
         font-size: 16px;
     }
+    /* .header_links{
+        padding-top: 26px;
+        padding-right: 40px;
+        float: right;
+    } */
     .text_title{
         width: 80%;
     }
