@@ -103,7 +103,8 @@ h6{
     top: 0;
 }
 .header_cont h4{
-    font-family: 'Patua One', cursive;
+    position: absolute;
+    font-family: 'Patua One', sans-serif;
     font-weight: 300;
     font-size: 22px;
     color:#ffffff;
