@@ -1,7 +1,8 @@
 $(document).ready(function(){
     $(".p_jarvis").find('h3').addClass('textOff');
     $(".p_govt").find('h3').addClass('textOff');
-    $(".p_jarvis, .p_govt").hover(function(){
+    $(".p_21roots").find('h3').addClass('textOff');
+    $(".p_jarvis, .p_govt, .p_21roots").hover(function(){
         $(this).css('cursor', 'pointer');
         $(this).find('h3').removeClass('textOff');
         $(this).find('div').removeClass('imageBig');
